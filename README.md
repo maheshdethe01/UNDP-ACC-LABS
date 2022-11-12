@@ -5,4 +5,7 @@ A Data Visualization project for UNDP ACC LABS' grassroot solutions.
     here
        </a>
   to see the project. </h2>
+<div>
+<img src= "https://github.com/maheshdethe01/UNDP-ACC-LABS/blob/main/UNDP%20ACC%20LABS%20(1).png" width="300" height ="1000" />
+</div>
 
